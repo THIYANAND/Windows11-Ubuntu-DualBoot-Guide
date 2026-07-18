@@ -1,5 +1,4 @@
 #### `05-After-Installation/touchpad.md`
-```markdown
 # 🖱️ Touchpad Gestures & Troubleshooting
 
 Ubuntu uses `libinput` by default, which supports basic multi-touch gestures. If your touchpad feels unresponsive or lacks palm rejection:
