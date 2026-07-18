@@ -1,5 +1,5 @@
 #### `06-Recovery/restore-windows.md`
-```markdown
+
 # 🪟 Restoring the Windows Bootloader
 
 If you decide to delete Ubuntu and want your PC to boot directly into Windows again without the GRUB menu:

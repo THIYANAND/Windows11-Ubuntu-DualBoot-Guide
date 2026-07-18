@@ -1,5 +1,4 @@
 #### `06-Recovery/reinstall-grub.md`
-```markdown
 # 💻 Reinstalling GRUB via Terminal (Chroot)
 
 If Boot-Repair fails, you can manually reinstall GRUB from a Live USB terminal. 
