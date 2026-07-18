@@ -10,3 +10,4 @@ Ubuntu uses `libinput` by default, which supports basic multi-touch gestures. If
    sudo add-apt-repository ppa:touchegg/os
    sudo apt update
    sudo apt install touchegg
+   ```
