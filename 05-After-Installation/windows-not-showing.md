@@ -9,7 +9,7 @@ If Ubuntu boots directly and skips the GRUB menu, or if Windows is missing from 
    sudo apt install os-prober
 
 1. Edit the GRUB file:
-```bash
+    ```bash
    sudo nano /etc/default/grub
    
 2. Add or uncomment the following line at the bottom:
@@ -18,5 +18,5 @@ If Ubuntu boots directly and skips the GRUB menu, or if Windows is missing from 
     GRUB_DISABLE_OS_PROBER=false
 4. Save and exit, then update GRUB:
 
-```bash
+    ```bash
    sudo update-grub

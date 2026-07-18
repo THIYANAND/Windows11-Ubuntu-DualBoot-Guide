@@ -8,8 +8,7 @@ Linux can sometimes drain laptop batteries faster than Windows. Install **TLP**,
    ```bash
    sudo apt update
    sudo apt install tlp tlp-rdw
-Start the service:
-
+2. Start the service:
     ```bash
     sudo tlp start
 

@@ -11,5 +11,5 @@ Reboot your PC.
 
 Verify the installation by opening a terminal and typing:
 
-```bash
+    ```bash
    nvidia-smi

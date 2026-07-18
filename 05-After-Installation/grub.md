@@ -16,5 +16,5 @@ GRUB is the menu that appears when you turn on your PC, asking whether you want 
 3. Save (Ctrl + O, Enter) and exit (Ctrl + X).
 
 3. Update GRUB to apply changes:
-```bash
+    ```bash
    sudo update-grub
