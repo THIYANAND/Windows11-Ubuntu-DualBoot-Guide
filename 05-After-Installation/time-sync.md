@@ -1,5 +1,5 @@
 #### `05-After-Installation/time-sync.md`
-```markdown
+
 # 🕒 Fixing the Windows & Ubuntu Time Sync Issue
 
 When dual-booting, you might notice that Windows displays the wrong time after booting from Ubuntu. This happens because Ubuntu uses UTC for the hardware clock, while Windows uses Local Time.
