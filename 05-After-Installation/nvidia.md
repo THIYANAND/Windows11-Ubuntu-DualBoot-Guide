@@ -10,6 +10,5 @@ To get the best performance and prevent screen tearing or battery drain, you mus
 Reboot your PC.
 
 Verify the installation by opening a terminal and typing:
-
     ```bash
    nvidia-smi
