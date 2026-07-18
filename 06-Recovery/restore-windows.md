@@ -12,4 +12,5 @@ If you decide to delete Ubuntu and want your PC to boot directly into Windows ag
    bootrec /fixboot
    bootrec /scanos
    bootrec /rebuildbcd
+   ```
 Restart your PC. You can now safely delete the Ubuntu partitions from Windows Disk Management.

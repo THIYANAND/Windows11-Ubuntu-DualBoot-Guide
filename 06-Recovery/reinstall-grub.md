@@ -14,3 +14,4 @@ If Boot-Repair fails, you can manually reinstall GRUB from a Live USB terminal.
     update-grub
     exit
     Reboot safely.
+    ```

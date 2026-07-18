@@ -7,10 +7,12 @@ If Ubuntu boots directly and skips the GRUB menu, or if Windows is missing from 
 1. Open a terminal and install `os-prober`:
    ```bash
    sudo apt install os-prober
+   ```
 
 1. Edit the GRUB file:
     ```bash
    sudo nano /etc/default/grub
+   ```
    
 2. Add or uncomment the following line at the bottom:
 
@@ -20,3 +22,4 @@ If Ubuntu boots directly and skips the GRUB menu, or if Windows is missing from 
 
     ```bash
    sudo update-grub
+   ```
